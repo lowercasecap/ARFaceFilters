@@ -1,5 +1,5 @@
 *.png filter=lfs diff=lfs merge=lfs -text
-.md filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
 
 #Added for LFS
 #UE file types
